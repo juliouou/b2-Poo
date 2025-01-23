@@ -65,10 +65,10 @@ JDBC (Java Database Connectivity) es una API que permite a las aplicaciones en J
 
     ```scala
     package Bimestre2.sem14
-import java.sql.{Connection, DriverManager, ResultSet}
+    import java.sql.{Connection, DriverManager, ResultSet}
 
-object mySQL {
-  def main(args: Array[String]): Unit = {
+    object mySQL {
+      def main(args: Array[String]): Unit = {
     val url = "jdbc:mysql://localhost:3306/scala_test"
     val username = "root"
     val password = "2565J"
