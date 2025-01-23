@@ -112,11 +112,7 @@ A continuación, se documentan dos librerías populares para conectarse a bases 
 1. Base de datos y tabla creadas en MySQL.
 2. Conexión y ejecución del programa en Scala.
 
-Las capturas están disponibles en la carpeta `screenshots`.
-
 ## Referencias
 
 - [Documentación de JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
 - [MySQL Connector/J](https://dev.mysql.com/doc/connector-j/en/)
-- [Slick](https://scala-slick.org/)
-- [Doobie](https://tpolecat.github.io/doobie/)
