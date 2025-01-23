@@ -1,7 +1,3 @@
-# Scala JDBC Database Connection
-
-Este repositorio documenta cómo establecer una conexión a una base de datos relacional (MySQL) desde Scala utilizando JDBC. Incluye una descripción de JDBC, dos librerías Scala para conectarse a bases de datos, y un tutorial paso a paso con ejemplos prácticos.
-
 ## ¿Qué es JDBC?
 
 JDBC (Java Database Connectivity) es una API que permite a las aplicaciones en Java (y lenguajes basados en la JVM como Scala) interactuar con bases de datos relacionales. JDBC proporciona una interfaz estándar para conectar, ejecutar consultas y gestionar resultados en una base de datos.
